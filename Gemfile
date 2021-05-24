@@ -9,3 +9,5 @@ gem 'rspec'
 
 # Debugging
 gem 'pry'
+
+# gem 'sqlite3', git: "https://github.com/larskanis/sqlite3-ruby", branch: "add-gemspec"
